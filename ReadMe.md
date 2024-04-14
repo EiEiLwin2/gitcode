@@ -1,0 +1,1 @@
+Project for data analysis with sql challenges.
